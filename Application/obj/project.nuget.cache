@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YtLegxtOaAhokc8bifoLoV30kzNXGUBitUtfTP8zOhjWFrNTHEi5Ui8Qe1dV0jdPpinta/1LRvFYaBh2I/u+og==",
+  "dgSpecHash": "HbKAlf3NmxpbIU/qQX4wji5NnPE6b9EjrthPH4vlvpqNnKiFySjngCmqfu+cP0YGkfcG5IVh/4zOphagjd9hgw==",
   "success": true,
-  "projectFilePath": "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/Application/Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\KION\\Documents\\GitHub\\RentACar\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KION\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\KION\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\KION\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

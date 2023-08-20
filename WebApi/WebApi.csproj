@@ -16,7 +16,8 @@
   <ItemGroup>
     <None Remove="Controllers\" />
   </ItemGroup>
+
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Application\Application.csproj" />
   </ItemGroup>
 </Project>

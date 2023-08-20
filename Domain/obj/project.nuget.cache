@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aARQGZycO+93MWPnBqHv1OFxfEDOByjRsV7Y8D76ymj8/9lKyckns2/lHScOIBPwVM4U2n2ADLaOYOzvdZBWfg==",
+  "dgSpecHash": "k0iIzTXNR6qscBVNUSHMyPVW27fCcElxYyaDrtoPMqGp6ZfHwkghGHtfhRJSRCCJuq7vzRMh7LSqj37ITutyPA==",
   "success": true,
-  "projectFilePath": "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/Domain/Domain.csproj",
+  "projectFilePath": "C:\\Users\\KION\\Documents\\GitHub\\RentACar\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
