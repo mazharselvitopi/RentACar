@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/WebApi/WebApi.csproj": {}
+    "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/WebApi/WebApi.csproj": {
+    "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/WebApi/WebApi.csproj",
-        "projectName": "WebApi",
-        "projectPath": "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/WebApi/WebApi.csproj",
+        "projectUniqueName": "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/Domain/Domain.csproj",
         "packagesPath": "/Users/mazharselvitopi/.nuget/packages/",
-        "outputPath": "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/WebApi/obj/",
+        "outputPath": "/Users/mazharselvitopi/Projects/nArchitecture/src/RentACar/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mazharselvitopi/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,6 @@
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,16 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.7, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,9 +49,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
